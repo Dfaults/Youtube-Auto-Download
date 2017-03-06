@@ -17,7 +17,7 @@ $link = Read-Host -Prompt 'Now enter the link to the video to download'
 
 # The Move-Item cmlet will move a file from directory A to B. just keep in mind that both directories need to be seperated by a
 # whitespace in order to be seen as two directories instead of one.
-Move-Item D:\jfel7\Videos\Demon King Series\youtube-dl.exe $directory
+Move-Item *original directory*\youtube-dl.exe $directory
 
 # The '&' symbol is used to execute commands within powershell. In this case the it takes a directory as an argument.
 & cd $directory

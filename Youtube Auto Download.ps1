@@ -24,4 +24,4 @@ Move-Item *original directory*\youtube-dl.exe $directory
 
 # This is the downloader itself. It needs the link in order to download the video the --ignore-errors argument is already
 # concatinated within the link variable just to make things simple.
-& $directory + youtube-dl.exe + $link
+& youtube-dl.exe + $link

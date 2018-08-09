@@ -1,1 +1,2 @@
 D:\jfel7\Documents\Visual Studio 2015\Projects\VBCalculator\VBCalculator\bin\Debug\VBCalculator.exe.config
+D:\jfel7\Documents\GitHub\Youtube-Auto-Download\VBCalculator\VBCalculator\bin\Debug\VBCalculator.exe.config
